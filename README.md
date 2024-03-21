@@ -32,3 +32,7 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
+<a href="https://github.com/uvipen/Character-level-cnn-tensorflow/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-tensorflow&theme=synthwave" />
+</a>
