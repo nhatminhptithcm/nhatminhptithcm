@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">You just increased the ☝ number aboveby 1 😘</h1>
+<h1 align="center">F5 and the number above ☝ will increase by 1 😘</h1>
 
 ###
 
