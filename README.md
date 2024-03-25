@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">Hi guys, i'm just a cùi bắp developer 😥</h3>
+<h3 align="left">Hi guys, i'm just a developer 😥</h3>
 
 ###
 
